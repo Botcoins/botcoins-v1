@@ -1,0 +1,8 @@
+*.token
+.idea
+*.iml
+Botcoins.jar
+Botcoins-Dependencies.jar
+target/
+modules/
+META-INF/
