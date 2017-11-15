@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/discord-chat-blue.svg)](https://discord.gg/Rcp9sEJ)
+
 # Botcoins v1 (Deprecated)
 I am aware the code in this repository is not neat or anything, so don't hold me against it.
 
